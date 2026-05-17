@@ -1,0 +1,8 @@
+gradio
+pandas
+scikit-learn
+PyPDF2
+spacy
+nltk
+matplotlib
+fpdf
